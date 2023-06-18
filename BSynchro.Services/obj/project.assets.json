@@ -5963,11 +5963,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Bsynchro\\BSynchro.Services\\BSynchro.Services.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Work\\Side Work\\BSynchro\\Bsynchro-RJP-API\\BSynchro.Services\\BSynchro.Services.csproj",
       "projectName": "BSynchro.Services",
-      "projectPath": "C:\\Users\\User\\source\\repos\\Bsynchro\\BSynchro.Services\\BSynchro.Services.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\Work\\Side Work\\BSynchro\\Bsynchro-RJP-API\\BSynchro.Services\\BSynchro.Services.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\Bsynchro\\BSynchro.Services\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Work\\Side Work\\BSynchro\\Bsynchro-RJP-API\\BSynchro.Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5984,11 +5984,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\User\\source\\repos\\Bsynchro\\BSynchro.Contracts\\BSynchro.Contracts.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\Bsynchro\\BSynchro.Contracts\\BSynchro.Contracts.csproj"
+            "C:\\Users\\User\\Desktop\\Work\\Side Work\\BSynchro\\Bsynchro-RJP-API\\BSynchro.Contracts\\BSynchro.Contracts.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\Work\\Side Work\\BSynchro\\Bsynchro-RJP-API\\BSynchro.Contracts\\BSynchro.Contracts.csproj"
             },
-            "C:\\Users\\User\\source\\repos\\Bsynchro\\BSynchro.Infrastructure\\BSynchro.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\Bsynchro\\BSynchro.Infrastructure\\BSynchro.Infrastructure.csproj"
+            "C:\\Users\\User\\Desktop\\Work\\Side Work\\BSynchro\\Bsynchro-RJP-API\\BSynchro.Infrastructure\\BSynchro.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\Work\\Side Work\\BSynchro\\Bsynchro-RJP-API\\BSynchro.Infrastructure\\BSynchro.Infrastructure.csproj"
             }
           }
         }

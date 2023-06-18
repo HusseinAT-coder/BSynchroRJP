@@ -17,3 +17,22 @@ C:\Users\User\source\repos\Bsynchro\BSynchro.Infrastructure\obj\Debug\net7.0\ref
 C:\Users\User\source\repos\Bsynchro\BSynchro.Infrastructure\obj\Debug\net7.0\BSynchro.Infrastructure.pdb
 C:\Users\User\source\repos\Bsynchro\BSynchro.Infrastructure\obj\Debug\net7.0\BSynchro.Infrastructure.genruntimeconfig.cache
 C:\Users\User\source\repos\Bsynchro\BSynchro.Infrastructure\obj\Debug\net7.0\ref\BSynchro.Infrastructure.dll
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Infrastructure\bin\Debug\net7.0\BSynchro.Infrastructure.deps.json
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Infrastructure\bin\Debug\net7.0\BSynchro.Infrastructure.runtimeconfig.json
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Infrastructure\bin\Debug\net7.0\BSynchro.Infrastructure.dll
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Infrastructure\bin\Debug\net7.0\BSynchro.Infrastructure.pdb
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Infrastructure\bin\Debug\net7.0\Bsynchro.Domain.dll
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Infrastructure\bin\Debug\net7.0\BSynchro.Domain.Shared.dll
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Infrastructure\bin\Debug\net7.0\Bsynchro.Domain.pdb
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Infrastructure\bin\Debug\net7.0\BSynchro.Domain.Shared.pdb
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Infrastructure\obj\Debug\net7.0\BSynchro.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Infrastructure\obj\Debug\net7.0\BSynchro.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Infrastructure\obj\Debug\net7.0\BSynchro.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Infrastructure\obj\Debug\net7.0\BSynchro.Infrastructure.AssemblyInfo.cs
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Infrastructure\obj\Debug\net7.0\BSynchro.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Infrastructure\obj\Debug\net7.0\BSynchro.Infrastructure.csproj.CopyComplete
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Infrastructure\obj\Debug\net7.0\BSynchro.Infrastructure.dll
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Infrastructure\obj\Debug\net7.0\refint\BSynchro.Infrastructure.dll
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Infrastructure\obj\Debug\net7.0\BSynchro.Infrastructure.pdb
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Infrastructure\obj\Debug\net7.0\BSynchro.Infrastructure.genruntimeconfig.cache
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Infrastructure\obj\Debug\net7.0\ref\BSynchro.Infrastructure.dll

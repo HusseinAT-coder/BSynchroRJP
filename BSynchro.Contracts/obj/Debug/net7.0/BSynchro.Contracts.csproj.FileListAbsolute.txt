@@ -15,3 +15,20 @@ C:\Users\User\source\repos\Bsynchro\BSynchro.Contracts\bin\Debug\net7.0\BSynchro
 C:\Users\User\source\repos\Bsynchro\BSynchro.Contracts\bin\Debug\net7.0\Bsynchro.Domain.pdb
 C:\Users\User\source\repos\Bsynchro\BSynchro.Contracts\bin\Debug\net7.0\BSynchro.Domain.Shared.pdb
 C:\Users\User\source\repos\Bsynchro\BSynchro.Contracts\obj\Debug\net7.0\BSynchro.Contracts.csproj.CopyComplete
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Contracts\bin\Debug\net7.0\BSynchro.Contracts.deps.json
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Contracts\bin\Debug\net7.0\BSynchro.Contracts.dll
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Contracts\bin\Debug\net7.0\BSynchro.Contracts.pdb
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Contracts\bin\Debug\net7.0\Bsynchro.Domain.dll
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Contracts\bin\Debug\net7.0\BSynchro.Domain.Shared.dll
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Contracts\bin\Debug\net7.0\Bsynchro.Domain.pdb
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Contracts\bin\Debug\net7.0\BSynchro.Domain.Shared.pdb
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Contracts\obj\Debug\net7.0\BSynchro.Contracts.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Contracts\obj\Debug\net7.0\BSynchro.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Contracts\obj\Debug\net7.0\BSynchro.Contracts.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Contracts\obj\Debug\net7.0\BSynchro.Contracts.AssemblyInfo.cs
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Contracts\obj\Debug\net7.0\BSynchro.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Contracts\obj\Debug\net7.0\BSynchro.Contracts.csproj.CopyComplete
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Contracts\obj\Debug\net7.0\BSynchro.Contracts.dll
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Contracts\obj\Debug\net7.0\refint\BSynchro.Contracts.dll
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Contracts\obj\Debug\net7.0\BSynchro.Contracts.pdb
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Contracts\obj\Debug\net7.0\ref\BSynchro.Contracts.dll
