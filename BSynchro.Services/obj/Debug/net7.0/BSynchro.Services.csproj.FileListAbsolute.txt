@@ -19,3 +19,24 @@ C:\Users\User\source\repos\Bsynchro\BSynchro.Services\bin\Debug\net7.0\BSynchro.
 C:\Users\User\source\repos\Bsynchro\BSynchro.Services\bin\Debug\net7.0\Bsynchro.Domain.pdb
 C:\Users\User\source\repos\Bsynchro\BSynchro.Services\bin\Debug\net7.0\BSynchro.Domain.Shared.pdb
 C:\Users\User\source\repos\Bsynchro\BSynchro.Services\obj\Debug\net7.0\BSynchro.Services.csproj.CopyComplete
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Services\bin\Debug\net7.0\BSynchro.Services.deps.json
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Services\bin\Debug\net7.0\BSynchro.Services.dll
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Services\bin\Debug\net7.0\BSynchro.Services.pdb
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Services\bin\Debug\net7.0\BSynchro.Contracts.dll
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Services\bin\Debug\net7.0\Bsynchro.Domain.dll
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Services\bin\Debug\net7.0\BSynchro.Domain.Shared.dll
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Services\bin\Debug\net7.0\BSynchro.Infrastructure.dll
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Services\bin\Debug\net7.0\BSynchro.Contracts.pdb
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Services\bin\Debug\net7.0\BSynchro.Infrastructure.pdb
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Services\bin\Debug\net7.0\Bsynchro.Domain.pdb
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Services\bin\Debug\net7.0\BSynchro.Domain.Shared.pdb
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Services\obj\Debug\net7.0\BSynchro.Services.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Services\obj\Debug\net7.0\BSynchro.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Services\obj\Debug\net7.0\BSynchro.Services.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Services\obj\Debug\net7.0\BSynchro.Services.AssemblyInfo.cs
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Services\obj\Debug\net7.0\BSynchro.Services.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Services\obj\Debug\net7.0\BSynchro.Services.csproj.CopyComplete
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Services\obj\Debug\net7.0\BSynchro.Services.dll
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Services\obj\Debug\net7.0\refint\BSynchro.Services.dll
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Services\obj\Debug\net7.0\BSynchro.Services.pdb
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\BSynchro.Services\obj\Debug\net7.0\ref\BSynchro.Services.dll

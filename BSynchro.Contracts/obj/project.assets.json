@@ -4063,11 +4063,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Bsynchro\\BSynchro.Contracts\\BSynchro.Contracts.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Work\\Side Work\\BSynchro\\Bsynchro-RJP-API\\BSynchro.Contracts\\BSynchro.Contracts.csproj",
       "projectName": "BSynchro.Contracts",
-      "projectPath": "C:\\Users\\User\\source\\repos\\Bsynchro\\BSynchro.Contracts\\BSynchro.Contracts.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\Work\\Side Work\\BSynchro\\Bsynchro-RJP-API\\BSynchro.Contracts\\BSynchro.Contracts.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\Bsynchro\\BSynchro.Contracts\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Work\\Side Work\\BSynchro\\Bsynchro-RJP-API\\BSynchro.Contracts\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4084,8 +4084,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\User\\source\\repos\\Bsynchro\\Bsynchro.Domain\\Bsynchro.Domain.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\Bsynchro\\Bsynchro.Domain\\Bsynchro.Domain.csproj"
+            "C:\\Users\\User\\Desktop\\Work\\Side Work\\BSynchro\\Bsynchro-RJP-API\\Bsynchro.Domain\\Bsynchro.Domain.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\Work\\Side Work\\BSynchro\\Bsynchro-RJP-API\\Bsynchro.Domain\\Bsynchro.Domain.csproj"
             }
           }
         }
