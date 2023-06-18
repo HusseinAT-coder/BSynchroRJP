@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Bsynchro\\BSynchro.Domain.Shared\\BSynchro.Domain.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Work\\Side Work\\BSynchro\\Bsynchro-RJP-API\\BSynchro.Domain.Shared\\BSynchro.Domain.Shared.csproj",
       "projectName": "BSynchro.Domain.Shared",
-      "projectPath": "C:\\Users\\User\\source\\repos\\Bsynchro\\BSynchro.Domain.Shared\\BSynchro.Domain.Shared.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\Work\\Side Work\\BSynchro\\Bsynchro-RJP-API\\BSynchro.Domain.Shared\\BSynchro.Domain.Shared.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\Bsynchro\\BSynchro.Domain.Shared\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Work\\Side Work\\BSynchro\\Bsynchro-RJP-API\\BSynchro.Domain.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

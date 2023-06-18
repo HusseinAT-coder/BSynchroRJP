@@ -13,3 +13,18 @@ C:\Users\User\source\repos\Bsynchro\Bsynchro.Domain\obj\Debug\net7.0\Bsynchro.Do
 C:\Users\User\source\repos\Bsynchro\Bsynchro.Domain\obj\Debug\net7.0\refint\Bsynchro.Domain.dll
 C:\Users\User\source\repos\Bsynchro\Bsynchro.Domain\obj\Debug\net7.0\Bsynchro.Domain.pdb
 C:\Users\User\source\repos\Bsynchro\Bsynchro.Domain\obj\Debug\net7.0\ref\Bsynchro.Domain.dll
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\Bsynchro.Domain\bin\Debug\net7.0\Bsynchro.Domain.deps.json
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\Bsynchro.Domain\bin\Debug\net7.0\Bsynchro.Domain.dll
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\Bsynchro.Domain\bin\Debug\net7.0\Bsynchro.Domain.pdb
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\Bsynchro.Domain\bin\Debug\net7.0\BSynchro.Domain.Shared.dll
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\Bsynchro.Domain\bin\Debug\net7.0\BSynchro.Domain.Shared.pdb
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\Bsynchro.Domain\obj\Debug\net7.0\Bsynchro.Domain.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\Bsynchro.Domain\obj\Debug\net7.0\Bsynchro.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\Bsynchro.Domain\obj\Debug\net7.0\Bsynchro.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\Bsynchro.Domain\obj\Debug\net7.0\Bsynchro.Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\Bsynchro.Domain\obj\Debug\net7.0\Bsynchro.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\Bsynchro.Domain\obj\Debug\net7.0\Bsynchro.Domain.csproj.CopyComplete
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\Bsynchro.Domain\obj\Debug\net7.0\Bsynchro.Domain.dll
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\Bsynchro.Domain\obj\Debug\net7.0\refint\Bsynchro.Domain.dll
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\Bsynchro.Domain\obj\Debug\net7.0\Bsynchro.Domain.pdb
+C:\Users\User\Desktop\Work\Side Work\BSynchro\Bsynchro-RJP-API\Bsynchro.Domain\obj\Debug\net7.0\ref\Bsynchro.Domain.dll

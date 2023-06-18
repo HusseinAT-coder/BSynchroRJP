@@ -129,6 +129,26 @@
           }
         }
       },
+      "Microsoft.AspNetCore.Cors/2.2.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Http.Extensions": "2.2.0",
+          "Microsoft.Extensions.Configuration.Abstractions": "2.2.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "2.2.0",
+          "Microsoft.Extensions.Logging.Abstractions": "2.2.0",
+          "Microsoft.Extensions.Options": "2.2.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Cors.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Cors.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.AspNetCore.Hosting.Abstractions/2.2.0": {
         "type": "package",
         "dependencies": {
@@ -1815,6 +1835,19 @@
         "lib/netstandard2.0/Microsoft.AspNetCore.Authorization.Policy.xml",
         "microsoft.aspnetcore.authorization.policy.2.2.0.nupkg.sha512",
         "microsoft.aspnetcore.authorization.policy.nuspec"
+      ]
+    },
+    "Microsoft.AspNetCore.Cors/2.2.0": {
+      "sha512": "LFlTM3ThS3ZCILuKnjy8HyK9/IlDh3opogdbCVx6tMGyDzTQBgMPXLjGDLtMk5QmLDCcP3l1TO3z/+1viA8GUg==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.cors/2.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/Microsoft.AspNetCore.Cors.dll",
+        "lib/netstandard2.0/Microsoft.AspNetCore.Cors.xml",
+        "microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",
+        "microsoft.aspnetcore.cors.nuspec"
       ]
     },
     "Microsoft.AspNetCore.Hosting.Abstractions/2.2.0": {
@@ -4686,6 +4719,7 @@
     "net7.0": [
       "BSynchro.Infrastructure >= 1.0.0",
       "BSynchro.Services >= 1.0.0",
+      "Microsoft.AspNetCore.Cors >= 2.2.0",
       "Microsoft.AspNetCore.OpenApi >= 7.0.7",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.7",
       "Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite >= 7.0.7",
@@ -4698,11 +4732,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Bsynchro\\WebApplication1\\BSynchro.API.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Work\\Side Work\\BSynchro\\Bsynchro-RJP-API\\WebApplication1\\BSynchro.API.csproj",
       "projectName": "BSynchro.API",
-      "projectPath": "C:\\Users\\User\\source\\repos\\Bsynchro\\WebApplication1\\BSynchro.API.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\Work\\Side Work\\BSynchro\\Bsynchro-RJP-API\\WebApplication1\\BSynchro.API.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\Bsynchro\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Work\\Side Work\\BSynchro\\Bsynchro-RJP-API\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4720,11 +4754,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\User\\source\\repos\\Bsynchro\\BSynchro.Infrastructure\\BSynchro.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\Bsynchro\\BSynchro.Infrastructure\\BSynchro.Infrastructure.csproj"
+            "C:\\Users\\User\\Desktop\\Work\\Side Work\\BSynchro\\Bsynchro-RJP-API\\BSynchro.Infrastructure\\BSynchro.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\Work\\Side Work\\BSynchro\\Bsynchro-RJP-API\\BSynchro.Infrastructure\\BSynchro.Infrastructure.csproj"
             },
-            "C:\\Users\\User\\source\\repos\\Bsynchro\\BSynchro.Services\\BSynchro.Services.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\Bsynchro\\BSynchro.Services\\BSynchro.Services.csproj"
+            "C:\\Users\\User\\Desktop\\Work\\Side Work\\BSynchro\\Bsynchro-RJP-API\\BSynchro.Services\\BSynchro.Services.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\Work\\Side Work\\BSynchro\\Bsynchro-RJP-API\\BSynchro.Services\\BSynchro.Services.csproj"
             }
           }
         }
@@ -4739,6 +4773,10 @@
       "net7.0": {
         "targetAlias": "net7.0",
         "dependencies": {
+          "Microsoft.AspNetCore.Cors": {
+            "target": "Package",
+            "version": "[2.2.0, )"
+          },
           "Microsoft.AspNetCore.OpenApi": {
             "target": "Package",
             "version": "[7.0.7, )"
